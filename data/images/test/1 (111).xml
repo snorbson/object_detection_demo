@@ -1,0 +1,26 @@
+<annotation>
+	<folder>office area</folder>
+	<filename>1 (111).jpeg</filename>
+	<path>C:\Users\Norbert\Desktop\office area\1 (111).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>focus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>119</ymin>
+			<xmax>232</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
